@@ -1,0 +1,19 @@
+{
+  "name": "angular-typescript-webpack",
+  "version": "1.0.0",
+  "description": "Angular + Typescript + Webpack build with Karma and wallaby tests support. And this all with sourcemaps in production support!!",
+  "main": "/",
+  "scripts": {    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaempioy/my-angular-typescript-webpack.git"
+  },
+  "author": "Kitti Boonchan <kittichin16@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaempioy/my-angular-typescript-webpack/issues"
+  },
+  "homepage": "https://github.com/yaempioy/my-angular-typescript-webpack#readme"
+}
