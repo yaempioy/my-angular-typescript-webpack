@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Angular + Typescript + Webpack build with Karma and wallaby tests support. And this all with sourcemaps in production support!!",
   "main": "/",
-  "scripts": {    
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yaempioy/my-angular-typescript-webpack/issues"
   },
-  "homepage": "https://github.com/yaempioy/my-angular-typescript-webpack#readme"
+  "homepage": "https://github.com/yaempioy/my-angular-typescript-webpack#readme",
+  "dependencies": {
+    "typings": "^0.7.8"
+  }
 }
